@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/bin/Debug/net8.0/PratikLists
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/bin/Debug/net8.0/PratikLists.deps.json
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/bin/Debug/net8.0/PratikLists.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/bin/Debug/net8.0/PratikLists.dll
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/bin/Debug/net8.0/PratikLists.pdb
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.dll
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/refint/PratikLists.dll
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.pdb
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/PratikLists.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/PratikLists/PratikLists/obj/Debug/net8.0/ref/PratikLists.dll
